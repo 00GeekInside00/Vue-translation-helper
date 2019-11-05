@@ -1,0 +1,20 @@
+{
+  "name": "vue-translation-helper-script",
+  "version": "0.0.1",
+  "description": "translation helper for i-18 Vue.js ⌨️",
+  "main": "app.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translations",
+    "i-18-n",
+    "vuejs"
+  ],
+  "author": "Ahmed Shawkat Helmi",
+  "license": "MIT"
+}
